@@ -1,0 +1,707 @@
+condition,dx_code,dx_method
+Absence Kidney,34537111,HIC
+"Abuse, Illicit Drug",03149110,HIC
+"Abuse, Illicit Drug",03148120,HIC
+"Abuse, Illicit Drug",03149111,HIC
+"Abuse, Tobacco, Smoking",04910110,HIC
+"Abuse, Tobacco, Smoking",34631111,HIC
+"Abuse, Tobacco, Smoking",09899321,HIC
+"Abuse, Tobacco, Smoking",Z72.0,I10
+"Accident, Cerebrovascular",G45.9,I10
+Accidental Fall,V15.88,I9
+Accidental Fall,14887110,HIC
+Acne,07061210,HIC
+Acne,07061270,HIC
+Acne,L70.0,I10
+Acne,L70.9,I10
+Adjustment Reaction,309.4,I9
+Adjustment Reaction,309.0,I9
+Adjustment Reaction,309.28,I9
+Adjustment Reaction,03173150,HIC
+Adjustment Reaction,03172110,HIC
+Adjustment Reaction,03173110,HIC
+Alcoholism,303.90,I9
+Alcoholism,03022110,HIC
+Alcoholism,03139111,HIC
+Alcoholism,34632111,HIC
+Alcoholism,03132111,HIC
+Alcoholism,F10.129,I10
+Alcoholism,Y90.8,I10
+Allergic Rhinitis,477.8,I9
+Allergic Rhinitis,05070140,HIC
+Allergic Rhinitis,05070111,HIC
+Allergic Rhinitis,05070120,HIC
+Allergic Rhinitis,05070110,HIC
+Allergic Rhinitis,05070130,HIC
+Allergic Rhinitis,05070211,HIC
+"Allergy, Drug",977.9,I9
+"Allergy, Drug",34600110,HIC
+"Allergy, Drug",09779120,HIC
+"Allergy, Drug",34608110,HIC
+"Allergy, Drug",09779111,HIC
+"Allergy, Drug",09745111,HIC
+"Allergy, Drug",09700110,HIC
+"Allergy, Drug",Z88.2,I10
+"Allergy, Drug",T50.904A,I10
+"Allergy, Drug",Z88.8,I10
+"Allergy, Drug",Z88.0,I10
+"Allergy, Drug",Z88.6,I10
+Amyloidosis,02760110,HIC
+Amyloidosis,E85.9,I10
+"Anemia,",281.0,I9
+"Aneurysm, Aortic",04411120,HIC
+"Aneurysm, Cerebral",I60.9,I10
+Angina,411.1,I9
+Angina,04130111,HIC
+Angina,04130111,HIC
+Ankylosing Spondylitis,07260151,HIC
+Anxiety,300.00,I9
+Anxiety,03100210,HIC
+Anxiety,03100113,HIC
+Anxiety,03173116,HIC
+Anxiety,F41.8,I10
+Anxiety,F41.9,I10
+"Apnea, Sleep",780.52,I9
+"Apnea, Sleep",07782411,HIC
+"Apnea, Sleep",G47.33,I10
+Appendicitis,05420130,HIC
+"Arrhythmia, Cardiac",427.0,I9
+"Arrhythmia, Cardiac",780.2,I9
+"Arrhythmia, Cardiac",427.31,I9
+"Arrhythmia, Cardiac",04169190,HIC
+"Arrhythmia, Cardiac",04159120,HIC
+"Arrhythmia, Cardiac",04163210,HIC
+"Arrhythmia, Cardiac",I48.0,I10
+"Arrhythmia, Cardiac",R55,I10
+"Arteritis, Temporal",04463311,HIC
+"Arteritis, Temporal",04463311,HIC
+"Arthritis, Psoriatic",06961210,HIC
+Asthma,493.90,I9
+Asthma,04939110,HIC
+Asthma,04939130,HIC
+Asthma,04931110,HIC
+Asthma,J45.909,I10
+Atopic Dermatitis,06929113,HIC
+Atopic Dermatitis,06900110,HIC
+Atrial Fibrillation,427.31,I9
+Atrial Fibrillation,04163210,HIC
+Atrial Fibrillation,I48.0,I10
+"Attack, Transient, Ischemic",04350134,HIC
+"Attack, Transient, Ischemic",04350131,HIC
+"Attack, Transient, Ischemic",G45.9,I10
+Attention Deficit Hyperactivity Disorder,314.01,I9
+Attention Deficit Hyperactivity Disorder,03180111,HIC
+Attention Deficit Hyperactivity Disorder,F90.0,I10
+Bipolar Disorder,296.30,I9
+Bipolar Disorder,296.20,I9
+Bipolar Disorder,03082150,HIC
+Birth,V30.00,I9
+Birth,34219111,HIC
+Birth,34209110,HIC
+Birth,34209111,HIC
+"Bite, Insect",09180241,HIC
+"Bite, Insect",S20.96XA,I10
+Breast,174.9,I9
+Breast,34093110,HIC
+Breast,C50.919,I10
+Bronchitis,491.21,I9
+Bronchitis,466.0,I9
+Bronchitis,04900211,HIC
+Bronchitis,04910110,HIC
+Bronchitis,04890112,HIC
+"Bronchitis, Acute",466.0,I9
+"Bronchitis, Acute",491.21,I9
+"Bronchitis, Acute",04890112,HIC
+"Bronchitis, Chronic",491.21,I9
+"Bronchitis, Chronic",04910110,HIC
+"Bronchitis, Chronic",04900211,HIC
+Bronchospasm,05197410,HIC
+Calculus Bile Duct or Gallbladder,05740611,HIC
+Calculus Bile Duct or Gallbladder,05740110,HIC
+"Calculus, Urinary, Renal",05921113,HIC
+"Calculus, Urinary, Renal",05920115,HIC
+Cardiomyopathy,425.4,I9
+Cardiomyopathy,04250320,HIC
+Cardiomyopathy,04250380,HIC
+Cataract,03749910,HIC
+Cataract,E11.36,I10
+Chicken Pox/Varicella,00520110,HIC
+Chicken Pox/Varicella,00520111,HIC
+Cholelithiasis,05740611,HIC
+Cholestasis,573.8,I9
+Chronic Kidney Disease,585.9,I9
+Chronic Kidney Disease,05869110,HIC
+Chronic Kidney Disease,05869130,HIC
+Chronic Kidney Disease,04039114,HIC
+Chronic Kidney Disease,I12.9,I10
+Chronic Kidney Disease,N18.4,I10
+Chronic Kidney Disease,N18.6,I10
+Chronic Kidney Disease,I13.11,I10
+Chronic Pain Syndrome,07921120,HIC
+Chronic Pain Syndrome,G89.4,I10
+"Colitis, Infectious",003.1,I9
+"Colitis, Infectious",001.1,I9
+"Colitis, Infectious",002.2,I9
+"Colitis, Infectious",003.0,I9
+"Colitis, Infectious",00092313,HIC
+"Colitis, Infectious",A00.0,I10
+"Congenital Malformations, Deformations and Chromosomal Abnormalities",751.60,I9
+"Congenital Malformations, Deformations and Chromosomal Abnormalities",758.0,I9
+"Congenital Malformations, Deformations and Chromosomal Abnormalities",743.20,I9
+"Congenital Malformations, Deformations and Chromosomal Abnormalities",744.1,I9
+"Congenital Malformations, Deformations and Chromosomal Abnormalities",07403110,HIC
+"Congenital Malformations, Deformations and Chromosomal Abnormalities",07557379,HIC
+"Congenital Malformations, Deformations and Chromosomal Abnormalities",07472710,HIC
+Diabetes,250.02,I9
+Diabetes,250.01,I9
+Diabetes,250.00,I9
+Diabetes,250.80,I9
+Diabetes,250.62,I9
+Diabetes,250.20,I9
+Diabetes,250.01,I9
+Diabetes,250.02,I9
+Diabetes,250.80,I9
+Diabetes,250.00,I9
+Diabetes,250.20,I9
+Diabetes,250.62,I9
+Diabetes,02500110,HIC
+Diabetes,02500117,HIC
+Diabetes,02500118,HIC
+Diabetes,02500110,HIC
+Diabetes,02500117,HIC
+Diabetes,02500118,HIC
+Diabetes,E11.3393,I10
+Diabetes,E11.40,I10
+Diabetes,E10.9,I10
+Diabetes,E11.36,I10
+Diabetes,O24.019,I10
+Diabetes,E11.9,I10
+Diabetes,E11.21,I10
+Diabetes,E11.9,I10
+Diabetes,E11.21,I10
+Diabetes,E10.9,I10
+Diabetes,E11.36,I10
+Diabetes,E11.3393,I10
+Diabetes,E11.40,I10
+Diabetes,O24.019,I10
+Delivery,674.82,I9
+Delivery,661.01,I9
+Delivery,663.31,I9
+Delivery,V27.0,I9
+Delivery,642.91,I9
+Delivery,659.51,I9
+Delivery,661.21,I9
+Delivery,654.21,I9
+Delivery,652.81,I9
+Delivery,670.02,I9
+Delivery,656.31,I9
+Delivery,06649211,HIC
+Delivery,06645111,HIC
+Delivery,34064110,HIC
+Delivery,06500210,HIC
+Dementia,03059113,HIC
+Dementia,G30.9,I10
+Depression,296.20,I9
+Depression,309.4,I9
+Depression,311,I9
+Depression,296.30,I9
+Depression,300.4,I9
+Depression,309.0,I9
+Depression,03105120,HIC
+Depression,03105131,HIC
+Depression,03105130,HIC
+Depression,03082150,HIC
+Depression,F41.8,I10
+Depression,F32.5,I10
+Diaphragmatic Hernia,05515411,HIC
+Diaphragmatic Hernia,05515211,HIC
+Diaphragmatic Hernia,05515210,HIC
+Disease Cerebrovascular,433.11,I9
+Disease Cerebrovascular,04320120,HIC
+Disease Cerebrovascular,04360110,HIC
+Disease Cerebrovascular,04320220,HIC
+Disease Cerebrovascular,04350134,HIC
+Disease Cerebrovascular,04350131,HIC
+Disease Cerebrovascular,G45.9,I10
+Disease Cerebrovascular,I60.9,I10
+Disease Cerebrovascular,I65.22,I10
+Disease Interstitial Lung,515,I9
+Disease Interstitial Lung,05170330,HIC
+Disease Interstitial Lung,04950116,HIC
+"Disease, Alcoholic Liver",303.90,I9
+"Disease, Alcoholic Liver",03139111,HIC
+"Disease, Alcoholic Liver",03132111,HIC
+"Disease, Alcoholic Liver",F10.129,I10
+"Disease, Breast, Fibrocystic",610.1,I9
+"Disease, Breast, Fibrocystic",06100217,HIC
+"Disease, Chronic Obstructive Pulmonary",491.21,I9
+"Disease, Chronic Obstructive Pulmonary",04950116,HIC
+"Disease, Chronic Obstructive Pulmonary",04960117,HIC
+"Disease, Chronic Obstructive Pulmonary",04960110,HIC
+"Disease, Chronic Obstructive Pulmonary",04960111,HIC
+"Disease, Coronary Artery",414.0,I9
+"Disease, Coronary Artery",414.01,I9
+"Disease, Coronary Artery",04129110,HIC
+"Disease, Grave's",02420125,HIC
+"Disease, Heart Congenital",07472710,HIC
+"Disease, Intestinal, Infectious",001.1,I9
+"Disease, Intestinal, Infectious",002.2,I9
+"Disease, Intestinal, Infectious",003.0,I9
+"Disease, Intestinal, Infectious",003.1,I9
+"Disease, Intestinal, Infectious",00092313,HIC
+"Disease, Intestinal, Infectious",A00.0,I10
+"Disease, Ischemic Heart",411.1,I9
+"Disease, Joint, Degenerative",715.90,I9
+"Disease, Joint, Degenerative",715.96,I9
+"Disease, Joint, Degenerative",07130117,HIC
+"Disease, Joint, Degenerative",07130120,HIC
+"Disease, Joint, Degenerative",07131210,HIC
+"Disease, Joint, Degenerative",07130110,HIC
+"Disease, Joint, Degenerative",07130130,HIC
+"Disease, Periodontal",521.00,I9
+"Disease, Periodontal",523.1,I9
+"Disease, Periodontal",05234220,HIC
+"Disease, Periodontal",05236110,HIC
+"Disease, Periodontal",05225110,HIC
+"Disease, Sexually Transmitted",00791112,HIC
+"Disease, Sexually Transmitted",00791115,HIC
+"Disease, Sexually Transmitted",01122113,HIC
+"Disease, Sexually Transmitted",00791114,HIC
+"Disease, Sexually Transmitted",00709111,HIC
+"Disease, Sexually Transmitted",B85.2,I10
+"Disease, Sexually Transmitted",B19.20,I10
+"Disease, Wilson's",02733110,HIC
+"Disorder, Bleeding",02871115,HIC
+"Disorder, Bleeding",02869513,HIC
+"Disorder, Development",03161112,HIC
+"Disorder, Development",07938110,HIC
+"Disorder, Immunodeficiency; Additional Code Sets or Specific Conditions should be considered",D89.9,I10
+"Disorder, Menstrual",626.4,I9
+"Disorder, Menstrual",N92.0,I10
+"Disorder, Sleep",780.52,I9
+"Disorder, Sleep",07735111,HIC
+"Disorder, Sleep",07782411,HIC
+"Disorder, Sleep",07735110,HIC
+"Disorder, Sleep",07735112,HIC
+"Disorder, Sleep",07735120,HIC
+"Disorder, Sleep",07735135,HIC
+"Disorder, Sleep",G47.33,I10
+Diverticulosis/Diverticulitis Intestine,562.10,I9
+Diverticulosis/Diverticulitis Intestine,05621221,HIC
+Diverticulosis/Diverticulitis Intestine,05623310,HIC
+Downs Syndrome,758.0,I9
+Dwarfism  **Very broad based on specific criteria by investigator,758.0,I9
+Dwarfism  **Very broad based on specific criteria by investigator,07938110,HIC
+Dysphagia,07814110,HIC
+Dysphagia,07814210,HIC
+Dyspnea,786.09,I9
+Dyspnea,786.05,I9
+Dyspnea,07781111,HIC
+Dysthymic Disorder,300.4,I9
+Edema/Swelling/Fluid Retention,782.3,I9
+Edema/Swelling/Fluid Retention,07756370,HIC
+Endometriosis,617.3,I9
+Endometriosis,06192130,HIC
+Endometriosis,06192131,HIC
+Eosinophilia,518.3,I9
+Ependymoma,191.9,I9
+Ependymoma,C71.9,I10
+Epistaxis,07761110,HIC
+Erectile Dysfunction,07847110,HIC
+Erectile Dysfunction,07847111,HIC
+"Failure, Renal",584.8,I9
+"Failure, Renal",585.9,I9
+"Failure, Renal",584.9,I9
+"Failure, Renal",05859120,HIC
+"Failure, Renal",34510110,HIC
+"Failure, Renal",N18.6,I10
+"Failure, Renal",N18.4,I10
+Fasciitis,07320110,HIC
+Fatigue,780.79,I9
+Fatigue,780.71,I9
+Fatigue,07927110,HIC
+Fatigue,07927220,HIC
+Fatigue,07927210,HIC
+Fatigue,R53.1,I10
+Fatigue,R53.83,I10
+Fibromyalgia,729.1,I9
+Fibromyalgia,07893213,HIC
+"Fracture, Vertebrae",08050110,HIC
+"Fracture, Vertebrae",08050111,HIC
+"Fracture, Wrist",814.00,I9
+Fractures,814.00,I9
+Fractures,808.8,I9
+Fractures,815.01,I9
+Fractures,733.13,I9
+Fractures,825.20,I9
+Fractures,08050111,HIC
+Fractures,08050110,HIC
+Fractures,08250231,HIC
+Fractures,S82.53XA,I10
+Fractures,S82.53XA,I10
+Functional GI complaints,789.03,I9
+Functional GI complaints,789.04,I9
+Functional GI complaints,789.00,I9
+Functional GI complaints,787.3,I9
+Functional GI complaints,789.0,I9
+Functional GI complaints,564.81,I9
+Functional GI complaints,536.8,I9
+Functional GI complaints,789.07,I9
+Functional GI complaints,07800243,HIC
+Functional GI complaints,05640112,HIC
+Functional GI complaints,05369121,HIC
+Functional GI complaints,05641111,HIC
+Functional GI complaints,07800240,HIC
+Functional GI complaints,07800260,HIC
+Functional GI complaints,07800250,HIC
+Gastritis/Duodenitis,535.50,I9
+Gastritis/Duodenitis,05350410,HIC
+Gastroesophageal Reflux,530.81,I9
+Gastroesophageal Reflux,05300210,HIC
+Gastroesophageal Reflux,05300213,HIC
+Gastroesophageal Reflux,05305210,HIC
+Glaucoma,743.20,I9
+Glaucoma,03751110,HIC
+Glaucoma,03759430,HIC
+Glaucoma,03751111,HIC
+Glaucoma,H40.1433,I10
+Gout,274.9,I9
+Gout,02740410,HIC
+Graft VS Host Disease,09968200,HIC
+Gynecomastia,611.1,I9
+Gynecomastia,06114131,HIC
+HIV+/AIDS,34728116,HIC
+Headache,346.90,I9
+Headache,784.0,I9
+Headache,339.12,I9
+Headache,07920210,HIC
+Headache,03461510,HIC
+Headache,03168111,HIC
+Headache,03460120,HIC
+Headache,03461313,HIC
+Headache,03168110,HIC
+Headache,07920110,HIC
+Headache,03460121,HIC
+Headache,07920211,HIC
+Headache,R51,I10
+Heart Failure,428.0,I9
+Heart Failure,04279113,HIC
+Hemolytic Anemia,02824131,HIC
+"Hemorrhage, Gastrointestinal",578.9,I9
+"Hemorrhage, Gastrointestinal",07820210,HIC
+"Hemorrhage, Gastrointestinal",07820220,HIC
+Hemorrhoids,04559110,HIC
+Hepatitis,00709111,HIC
+Hepatitis,B19.20,I10
+Hepatitis C,00709111,HIC
+Hepatitis C,B19.20,I10
+Herpes Simplex,00540410,HIC
+Herpes Simplex,00540211,HIC
+Herpes Simplex,00540812,HIC
+Herpes Simplex,B00.1,I10
+Herpes Zoster,053.9,I9
+High Blood Pressure,07747112,HIC
+High Blood Pressure,07747111,HIC
+Hypercalcemia,07903810,HIC
+Hyperlipidemia/Hypercholesterolemia,272.4,I9
+Hyperlipidemia/Hypercholesterolemia,272.0,I9
+Hyperlipidemia/Hypercholesterolemia,02722110,HIC
+Hyperlipidemia/Hypercholesterolemia,02720211,HIC
+Hyperlipidemia/Hypercholesterolemia,02720210,HIC
+Hyperparathyroidism,E21.3,I10
+"Hyperplasia, Prostate",06000221,HIC
+"Hyperplasia, Prostate",06000211,HIC
+"Hyperplasia, Prostate",06000220,HIC
+"Hyperplasia, Prostate",06000225,HIC
+Hyperprolactinemia,02262325,HIC
+Hyperprolactinemia,34724111,HIC
+Hyperprolactinemia,D35.2,I10
+Hypertension,642.91,I9
+Hypertension,401.9,I9
+Hypertension,401.1,I9
+Hypertension,04050210,HIC
+Hypertension,04010210,HIC
+Hypertension,04039114,HIC
+Hypertension,I12.9,I10
+Hypertension,I13.11,I10
+Hypertension,I10,I10
+Hyperthyroidism,02429211,HIC
+Hyperthyroidism,02420125,HIC
+Hypogonadism,256.39,I9
+Hypogonadism,02571310,HIC
+Hypothyroidism,244.9,I9
+Hypothyroidism,02449120,HIC
+Hypothyroidism,02449110,HIC
+"Impairment, Mild Cognitive",03161112,HIC
+"Impairment, Mild Cognitive",G31.84,I10
+"Incontinence, Urinary",788.41,I9
+"Incontinence, Urinary",07836110,HIC
+"Incontinence, Urinary",07836112,HIC
+"Incontinence, Urinary",07839110,HIC
+"Incontinence, Urinary",R35.0,I10
+"Infarction, Myocardial",410.90,I9
+"Infarction, Myocardial",410.71,I9
+"Infarction, Myocardial",04109130,HIC
+"Infarction, Myocardial",04120110,HIC
+"Infarction, Pulmonary",415.19,I9
+Infertility,34130110,HIC
+Infertility,34130110,HIC
+"Injury, Intracranial",08540210,HIC
+"Injury, Lower Back",959.19,I9
+"Injury, Spinal Cord",08050111,HIC
+"Injury, Spinal Cord",08050110,HIC
+"Insufficiency, Chronic Renal",585.9,I9
+"Insufficiency, Chronic Renal",05869130,HIC
+Irritable Bowel Syndrome,05641111,HIC
+"Leukemia- All cell types, Acute & Chronic",02058110,HIC
+"Leukemia- All cell types, Acute & Chronic",02041110,HIC
+Lichen Planus,06970110,HIC
+Liver or Intrahepatic Bile Ducts,01551211,HIC
+Liver or Intrahepatic Bile Ducts,01551211,HIC
+"Loss, Hearing",03892110,HIC
+"Loss, Hearing",03892111,HIC
+"Loss, Hearing",03890110,HIC
+"Loss, Hearing",03891110,HIC
+"Lymphoid, Hematopoietic Malignancy",02041110,HIC
+"Lymphoid, Hematopoietic Malignancy",02058110,HIC
+Macular Degeneration,362.52,I9
+Macular Degeneration,03774230,HIC
+Macular Degeneration,H35.3232,I10
+Malignancy,174.9,I9
+Malignancy,153.9,I9
+Malignancy,162.9,I9
+Malignancy,191.9,I9
+Malignancy,01729210,HIC
+Malignancy,01790430,HIC
+Malignancy,01790450,HIC
+Malignancy,01621110,HIC
+Malignancy,01509110,HIC
+Malignancy,01790570,HIC
+Malignancy,01790210,HIC
+Malignancy,01850110,HIC
+Malignancy,01739110,HIC
+Malignancy,01729110,HIC
+Malignancy,01551211,HIC
+Malignancy,02041110,HIC
+Malignancy,01790630,HIC
+Malignancy,01990111,HIC
+Malignancy,01541110,HIC
+Malignancy,01990110,HIC
+Malignancy,02058110,HIC
+Malignancy,01930110,HIC
+Malignancy,01790650,HIC
+Malignancy,01538112,HIC
+Malignancy,01790460,HIC
+Malignancy,01960130,HIC
+Malignancy,C50.919,I10
+Malignancy,C34.80,I10
+Malignancy,C71.9,I10
+Malignancy,C18.9,I10
+Malignancy,C40.11,I10
+Malignancy,C34.12,I10
+Melanoma,01729210,HIC
+Melanoma,01729110,HIC
+Migraine,346.90,I9
+Migraine,03460120,HIC
+Migraine,03460121,HIC
+Migraine,03461510,HIC
+Migraine,03461313,HIC
+Multiple Myeloma-Monoclonal Gammopathy,273.8,I9
+Multiple Sclerosis,341.21,I9
+Multiple Sclerosis,03400110,HIC
+Myasthenia Gravis,03482112,HIC
+Narcolepsy,07735135,HIC
+"Neoplasm Malignant, Brain",191.9,I9
+"Neoplasm Malignant, Brain",C71.9,I10
+"Neoplasm Malignant, Esophagus",01509110,HIC
+"Neoplasm Malignant, Intestine, Large/Colorectal",153.9,I9
+"Neoplasm Malignant, Intestine, Large/Colorectal",01541110,HIC
+"Neoplasm Malignant, Intestine, Large/Colorectal",01538112,HIC
+"Neoplasm Malignant, Intestine, Large/Colorectal",C18.9,I10
+"Neoplasm Malignant, Prostate",34104110,HIC
+"Neoplasm Malignant, Prostate",01850110,HIC
+"Neoplasm Malignant, Skin",34095110,HIC
+"Neoplasm Malignant, Skin",01790460,HIC
+"Neoplasm Malignant, Skin",01739110,HIC
+"Neoplasm Malignant, Thyroid",01930110,HIC
+"Neoplasm, Malignant Bone",C40.11,I10
+"Neoplasm, Malignant Lung, Bronchus, Trachea",162.9,I9
+"Neoplasm, Malignant Lung, Bronchus, Trachea",01621110,HIC
+"Neoplasm, Malignant Lung, Bronchus, Trachea",C34.12,I10
+"Neoplasm, Malignant Lung, Bronchus, Trachea",C34.80,I10
+Nevus,238.2,I9
+Nevus,02164210,HIC
+Nevus,02164410,HIC
+Nevus,D22.9,I10
+Obesity,278.01,I9
+Obesity,02770215,HIC
+Obesity,02770211,HIC
+Obesity,34505111,HIC
+Obesity,02770410,HIC
+Obesity,02770210,HIC
+Obesity,E66.9,I10
+"Obstruction, Intestinal",560.1,I9
+"Obstruction, Intestinal",05609411,HIC
+"Obstruction, Intestinal",05609130,HIC
+Osteomyelitis,M86.9,I10
+Osteoporosis,733.00,I9
+Osteoporosis,733.13,I9
+Osteoporosis,07230156,HIC
+Osteoporosis,07230130,HIC
+Osteoporosis,07230151,HIC
+"Pain, Back",724.2,I9
+"Pain, Back",724.5,I9
+"Pain, Back",07891110,HIC
+"Pain, Back",07891211,HIC
+"Pain, Back",M54.5,I10
+"Pain, Pelvic",06263110,HIC
+"Pancreatitis, Acute/Chronic Etc.",05772120,HIC
+"Paralysis, Facial Nerve",03500112,HIC
+"Paralysis, Facial Nerve",03500111,HIC
+Parkinson's Disease,03420114,HIC
+Parkinson's Disease,07732220,HIC
+Parkinson's Disease,03420110,HIC
+Parkinson's Disease,07886214,HIC
+Peptic Ulcer,531.40,I9
+Peptic Ulcer,531.90,I9
+Peptic Ulcer,05330110,HIC
+Peptic Ulcer,05310200,HIC
+Peripheral Vascular Disease,443.0,I9
+Peripheral Vascular Disease,04409110,HIC
+Peripheral Vascular Disease,07749110,HIC
+Peripheral Vascular Disease,07749110,HIC
+Peripheral Vascular Disease,04411120,HIC
+Peripheral Vascular Disease,04411120,HIC
+Pernicious Anemia,281.0,I9
+"Phenomenon, Raynaud's",443.0,I9
+Placental Abnormality,O46.90,I10
+Placental Abnormality,O46.91,I10
+Pneumonia,486,I9
+Pneumonia,05194110,HIC
+Pneumonia,04860910,HIC
+Polycythemia Vera,02080110,HIC
+"Polyp, Nasal",05050310,HIC
+"Polyp, large intestine/rectum",211.3,I9
+"Polyp, large intestine/rectum",153.9,I9
+"Polyp, large intestine/rectum",C18.9,I10
+Pregnancy,646.63,I9
+Pregnancy,663.31,I9
+Pregnancy,670.02,I9
+Pregnancy,674.82,I9
+Pregnancy,633.9,I9
+Pregnancy,659.51,I9
+Pregnancy,661.21,I9
+Pregnancy,659.83,I9
+Pregnancy,V22.1,I9
+Pregnancy,661.01,I9
+Pregnancy,654.21,I9
+Pregnancy,652.81,I9
+Pregnancy,V24.2,I9
+Pregnancy,644.03,I9
+Pregnancy,648.63,I9
+Pregnancy,V22.2,I9
+Pregnancy,642.91,I9
+Pregnancy,656.31,I9
+Pregnancy,06645111,HIC
+Pregnancy,34071110,HIC
+Pregnancy,06319110,HIC
+Pregnancy,34064110,HIC
+Pregnancy,34060111,HIC
+Pregnancy,06430110,HIC
+Pregnancy,06649211,HIC
+Pregnancy,06500210,HIC
+Pregnancy,O24.019,I10
+Pregnancy,O46.90,I10
+Pregnancy,O20.9,I10
+Pregnancy,O46.91,I10
+"Prolapse, Pelvic Organ",05697130,HIC
+Psoriasis,06961210,HIC
+Psychosis,296.30,I9
+Psychosis,296.20,I9
+Pulmonary Edema,514,I9
+Pulmonary Embolism,415.19,I9
+Pulmonary fibrosis,515,I9
+Pulmonary fibrosis,05170330,HIC
+Pulmonary fibrosis,04950116,HIC
+Renal Disease,585.9,I9
+Renal Disease,584.9,I9
+Renal Disease,584.8,I9
+Renal Disease,593.9,I9
+Renal Disease,05910511,HIC
+Renal Disease,05921113,HIC
+Renal Disease,05902410,HIC
+Renal Disease,05859120,HIC
+Renal Disease,34510110,HIC
+Renal Disease,05920115,HIC
+Renal Disease,05869130,HIC
+Renal Disease,05869210,HIC
+Renal Disease,05869110,HIC
+Renal Disease,I13.11,I10
+Renal Disease,I12.9,I10
+Renal Disease,N18.6,I10
+Renal Disease,N18.4,I10
+Respiratory Failure,518.81,I9
+"Retardation, Mental",319,I9
+Rheumatoid or Inflammatory Arthritis,07129140,HIC
+Rickets,07903820,HIC
+"Seizure/Epilepsy  **ICD-9, Hicda and Berkson codes are very broad, used in previous REP Studies; Review and choose relevant codes for study criteria",345.50,I9
+"Seizure/Epilepsy  **ICD-9, Hicda and Berkson codes are very broad, used in previous REP Studies; Review and choose relevant codes for study criteria",07703111,HIC
+"Seizure/Epilepsy  **ICD-9, Hicda and Berkson codes are very broad, used in previous REP Studies; Review and choose relevant codes for study criteria",07703114,HIC
+"Seizure/Epilepsy  **ICD-9, Hicda and Berkson codes are very broad, used in previous REP Studies; Review and choose relevant codes for study criteria",03459111,HIC
+"Seizure/Epilepsy  **ICD-9, Hicda and Berkson codes are very broad, used in previous REP Studies; Review and choose relevant codes for study criteria",R56.9,I10
+"Seizure/Epilepsy  **ICD-9, Hicda and Berkson codes are very broad, used in previous REP Studies; Review and choose relevant codes for study criteria",G40.901,I10
+"Seizure/Epilepsy  **ICD-9, Hicda and Berkson codes are very broad, used in previous REP Studies; Review and choose relevant codes for study criteria",G40.209,I10
+Septicemia/Bacteremia,003.1,I9
+Septicemia/Bacteremia,R78.81,I10
+Sinusitis,461.2,I9
+Sinusitis,01179170,HIC
+Sinusitis,05039310,HIC
+Sinusitis,04619410,HIC
+Sinusitis,05070140,HIC
+"Status Coronary Artery Vascular Surgeries-CABG, ETC",34509350,HIC
+"Status, Arthroplasty Hip or Knee",34509210,HIC
+"Status, Pacemaker, Cardiac/Cardiac Defibrillator",V45.01,I9
+"Status, Pacemaker, Cardiac/Cardiac Defibrillator",34500110,HIC
+"Status, Sterilization",V25.2,I9
+"Status, Sterilization",34864110,HIC
+"Status, Sterilization",34130110,HIC
+"Status, Transplant Kidney",34510110,HIC
+"Status, Transplant Liver",V42.7,I9
+"Status, Transplant, Bone Marrow/Stem Cell",34519120,HIC
+"Stenosis, Renal Artery",04039114,HIC
+"Stenosis, Spinal",724.00,I9
+"Stenosis, Spinal",03496112,HIC
+"Stenosis, Valve Heart",424.3,I9
+"Stenosis, Valve Heart",424.1,I9
+Stroke,04360110,HIC
+Stroke,I60.9,I10
+Stroke,433.11,I9
+Stroke,04360110,HIC
+Stroke,04320120,HIC
+Stroke,04320220,HIC
+"Suicide **Suicide can also be found as the ""cause of death"" on death certificates-contact retrieval specialist",R45.851,I10
+"Syndrome, Carpal Tunnel",354.0,I9
+"Syndrome, Carpal Tunnel",03572141,HIC
+"Syndrome, Tourette's",307.23,I9
+Tachycardia,427.0,I9
+"Thromboembolism, Superficial/Deep",454.0,I9
+"Thromboembolism, Superficial/Deep",04519510,HIC
+"Thromboembolism, Superficial/Deep",04519511,HIC
+Tick related conditions,09180241,HIC
+"Tumor, Brain",191.9,I9
+"Tumor, Brain",02262325,HIC
+"Tumor, Brain",D35.2,I10
+"Tumor, Brain",C71.9,I10
+"Ulcer, Skin",07071110,HIC
+Urinary Infection/Cystitis/Urethritis,599.0,I9
+Urinary Infection/Cystitis/Urethritis,05995110,HIC
+Urinary Infection/Cystitis/Urethritis,N39.0,I10
+Uveitis,03660152,HIC
+Varicose Veins-,454.0,I9
+Vasculitis,04463311,HIC
+Vertigo,780.4,I9
+Vertigo,07704120,HIC
+Vertigo,07704121,HIC
+Vertigo,07705110,HIC
+Vertigo,07705120,HIC
+Wheezing,786.09,I9
