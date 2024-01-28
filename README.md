@@ -4,6 +4,6 @@
 
 This repo contains the following data sets:
 
-- `demo.csv`: Demographic data
+- `demo`: Demographic data
 - `dx`: Patient diagnoses (dates and codes)
 - `dx_map`: This table contains the mapping between the diagnosis codes and the corresponding condition names.
